@@ -51,7 +51,6 @@
 		<!-- <Video>..\ECS-Contents.git\Videos\ECSTesting\Video1Test</Video> -->
       </Videos>
       <Tutorials>
-		<Tutorial>git@github.com:brian-organization/Tutorial1Test.git</Tutorial>
       </Tutorials>
     </Unit>
   </Units>
