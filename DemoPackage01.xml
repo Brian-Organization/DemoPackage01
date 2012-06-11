@@ -42,7 +42,6 @@
         <Lab>git@github.com:brian-organization/Lab1Test.git</Lab> <!-- Updated -->
       </Labs>
       <Demos>
-        <Demo>git@github.com:brian-organization/Demo1Test.git</Demo>
       </Demos>
       <Presentations>
 		<Presentation>git@github.com:brian-organization/Presentation1Test.git</Presentation> <!-- Updated -->
