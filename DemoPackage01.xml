@@ -39,12 +39,12 @@
       <Id>WindowsAzure</Id>
       <Name>Windows Azure</Name>
       <Labs>
-        <Lab>git@github.com:Brian-Organization/Lab1Test.git</Lab> <!-- Updated -->
+        <Lab>git@github.com:brian-organization/Lab1Test.git</Lab> <!-- Updated -->
       </Labs>
       <Demos>
       </Demos>
       <Presentations>
-		<Presentation>git@github.com:Brian-Organization/Presentation1Test.git</Presentation> <!-- Updated -->
+		<Presentation>git@github.com:brian-organization/Presentation1Test.git</Presentation> <!-- Updated -->
       </Presentations>
       <Videos>
 		<!-- <Video>..\ECS-Contents.git\Videos\ECSTesting\Video1Test</Video> -->
